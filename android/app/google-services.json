@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "892954905402",
+    "firebase_url": "https://train-payment-system.firebaseio.com",
+    "project_id": "train-payment-system",
+    "storage_bucket": "train-payment-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892954905402:android:d2103c777e9aea1852de03",
+        "android_client_info": {
+          "package_name": "com.Group_5.customer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892954905402-l22rqhone7jnb3cnjdniribgjckad45m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAryLql0HLCzNTClSvrp4oUKF_NeE0HQ1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892954905402-l22rqhone7jnb3cnjdniribgjckad45m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892954905402:android:99cc17f7c1636fe352de03",
+        "android_client_info": {
+          "package_name": "com.Group_5.portal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892954905402-l22rqhone7jnb3cnjdniribgjckad45m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAryLql0HLCzNTClSvrp4oUKF_NeE0HQ1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892954905402-l22rqhone7jnb3cnjdniribgjckad45m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
